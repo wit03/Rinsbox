@@ -1,0 +1,4 @@
+#Mon Aug 27 14:13:21 ICT 2018
+base.0=/Users/wit03/Desktop/react101/Rinsbox/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
