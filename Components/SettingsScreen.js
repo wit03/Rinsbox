@@ -14,10 +14,7 @@ class SettingsScreen extends Component {
         title: "Settings",
         headerLeft: <Icon ios='ios-menu' android="md-menu" style={{ paddingLeft: 15 }} onPress={() => navigation.openDrawer()} />,
         drawerIcon:
-            <Image
-                source={require('./Assets/wall.jpg')}
-                style={[styles.icon]}
-            />
+        <Icon ios='ios-settings' android='md-settings'/>
 
     })
 

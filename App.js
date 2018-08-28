@@ -33,7 +33,7 @@ const CustomDrawerContentComponent = (props) => (
       <Body>
         <Image
           style={styles.drawerImage}
-          source={require('./Components/Assets/test.jpg')} />
+          source={require('./Components/Assets/logo.png')} />
       </Body>
     </Header>
     <Content>

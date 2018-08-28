@@ -19,10 +19,7 @@ class HomeScreen extends Component {
     
     drawerLabel: 'Notification',
     drawerIcon: ({ tintColor }) => (
-      <Image
-        source={require('./Assets/wall.jpg')}
-        style={styles.icon}
-      />
+      <Icon ios='ios-notifications' android='md-notifications'/>
     ),
   })
 
