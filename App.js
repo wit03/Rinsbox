@@ -12,11 +12,10 @@ import { Container, Content, Icon, Header, Body } from 'native-base'
 import { DrawerNavigator, StackNavigator, DrawerItems, SafeAreaView } from 'react-navigation'
 
 //custom files 
-
 import SettingsScreen from './Components/SettingsScreen'
 import HomeScreen from './Components/HomeScreen';
 
-
+//render main component
 export default class App extends Component {
 
   render() {
